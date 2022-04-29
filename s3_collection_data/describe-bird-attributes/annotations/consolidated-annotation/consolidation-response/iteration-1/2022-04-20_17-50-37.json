@@ -1,0 +1,18 @@
+[
+    {
+        "datasetObjectId": "0",
+        "consolidatedAnnotation": {
+            "content": {
+                "describe-bird-attributes": 3,
+                "describe-bird-attributes-metadata": {
+                    "class-name": "Multi-colored",
+                    "job-name": "labeling-job/describe-bird-attributes",
+                    "confidence": 0.0,
+                    "type": "groundtruth/image-classification",
+                    "human-annotated": "yes",
+                    "creation-date": "2022-04-20T17:50:37.349297"
+                }
+            }
+        }
+    }
+]

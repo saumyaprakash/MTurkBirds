@@ -1,0 +1,28 @@
+[
+    {
+        "datasetObjectId": "9",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Pileated_Woodpecker_0033_180179.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A2D74QPANDB2I7",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Solid\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A3JZG4HF6B7XWC",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.ACPF0GZBM5U2J",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            }
+        ]
+    }
+]

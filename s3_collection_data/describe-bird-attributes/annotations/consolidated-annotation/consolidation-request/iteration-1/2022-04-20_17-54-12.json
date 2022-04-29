@@ -1,0 +1,16 @@
+[
+    {
+        "datasetObjectId": "6",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Hooded_Oriole_0127_90200.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A3DK3G3CBMNZMP",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Multi-colored\"}}"
+                }
+            }
+        ]
+    }
+]

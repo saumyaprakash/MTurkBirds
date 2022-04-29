@@ -1,0 +1,28 @@
+[
+    {
+        "datasetObjectId": "13",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Tree_Sparrow_0108_124754.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A3RR91G2KJO9NI",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Multi-colored\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A2Y6EXJ6U5DOCL",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Striped\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A2Y0P0FH15I0F3",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Striped\"}}"
+                }
+            }
+        ]
+    }
+]

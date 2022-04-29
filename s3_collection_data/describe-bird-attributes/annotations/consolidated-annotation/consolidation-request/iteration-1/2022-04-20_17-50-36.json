@@ -1,0 +1,16 @@
+[
+    {
+        "datasetObjectId": "0",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/American_Goldfinch_0022_32111.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A3OJMQGEB33E00",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Multi-colored\"}}"
+                }
+            }
+        ]
+    }
+]

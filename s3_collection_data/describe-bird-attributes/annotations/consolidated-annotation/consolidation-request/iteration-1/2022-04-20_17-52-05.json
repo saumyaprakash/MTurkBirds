@@ -1,0 +1,58 @@
+[
+    {
+        "datasetObjectId": "2",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Bohemian_Waxwing_0024_177661.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A1BKH8M1BC58VD",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Solid\"}}"
+                }
+            }
+        ]
+    },
+    {
+        "datasetObjectId": "4",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Cerulean_Warbler_0002_797219.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A1BKH8M1BC58VD",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Solid\"}}"
+                }
+            }
+        ]
+    },
+    {
+        "datasetObjectId": "1",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Blue_Grosbeak_0066_36632.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A1BKH8M1BC58VD",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            }
+        ]
+    },
+    {
+        "datasetObjectId": "7",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Least_Auklet_0014_1901.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A2FE6HDHREXIJ5",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Multi-colored\"}}"
+                }
+            }
+        ]
+    }
+]

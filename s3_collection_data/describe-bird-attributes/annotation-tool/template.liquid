@@ -1,0 +1,18 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+<crowd-form>
+  <crowd-image-classifier
+    name="crowd-image-classifier"
+    src="{{ task.input.taskObject | grant_read_access }}"
+    header="Select the option that best matches the wing pattern of the bird’s image below. Refer to the example wing patterns to learn more about what each wing type looks like. 
+
+Wings can be solid, spotted, striped, or multicolored. If you are unsure, please select the option that you believe fits best."
+    categories="{{ task.input.labels | to_json | escape }}"
+  >
+    <full-instructions header="Image classification instructions">
+      <ol><li><strong>Read</strong> the task carefully and inspect the image.</li><li><strong>Read</strong> the options and review the examples provided to understand more about the labels.</li><li><strong>Choose</strong> the appropriate label that best suits the image.</li></ol>
+    </full-instructions>
+    <short-instructions>
+      <h3>Solid Wing</h3><p><img src="https://www.allaboutbirds.org/guide/assets/photo/302400101-480px.jpg" style="max-width:100%"></p><p><br></p><h3>Spotted Wing</h3><h3> <img src="https://www.eekwi.org/sites/default/files/styles/original/public/2020-01/downywoodpecker.jpg?itok=kgXaGWes" style="max-width:100%"></h3><h3><br></h3><h3>Striped Wing</h3><h3> <img src="https://www.allaboutbirds.org/guide/assets/photo/299412471-480px.jpg" style="max-width:100%"></h3><h3><br></h3><h3>Multi-Colored Wing</h3><p><img src="https://www.allaboutbirds.org/guide/assets/photo/67271811-480px.jpg" style="max-width:100%"></p>
+    </short-instructions>
+  </crowd-image-classifier>
+</crowd-form>

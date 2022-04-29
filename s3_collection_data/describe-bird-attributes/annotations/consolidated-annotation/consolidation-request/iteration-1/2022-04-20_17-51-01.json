@@ -1,0 +1,16 @@
+[
+    {
+        "datasetObjectId": "5",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Green_Kingfisher_0046_71178.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A2FE6HDHREXIJ5",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Multi-colored\"}}"
+                }
+            }
+        ]
+    }
+]

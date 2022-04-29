@@ -1,0 +1,5 @@
+aws s3 cp s3://birds-final-project-bucket/describe-bird-attributes-2/ . --recursive --dryrun > ./describe-bird-attributes-2/replace.txt
+aws s3 cp s3://birds-final-project-bucket/describe-bird-attributes-morning/ . --recursive --dryrun > ./describe-bird-attributes-morning/replace.txt
+aws s3 cp s3://birds-final-project-bucket/describe-bird-attributes-morning-clone/ . --recursive --dryrun > ./describe-bird-attributes-morning-clone/replace.txt
+aws s3 cp s3://birds-final-project-bucket/describe-bird-attributes-night/ . --recursive --dryrun > ./describe-bird-attributes-night/replace.txt
+aws s3 cp s3://birds-final-project-bucket/describe-bird-attributes-night2/ . --recursive --dryrun > ./describe-bird-attributes-night2/replace.txt

@@ -1,0 +1,37 @@
+{
+    "answers": [
+        {
+            "acceptanceTime": "2022-04-21T15:37:03Z",
+            "answerContent": {
+                "crowd-image-classifier": {
+                    "label": "Multi-colored"
+                }
+            },
+            "submissionTime": "2022-04-21T15:37:36Z",
+            "timeSpentInSeconds": 33.0,
+            "workerId": "public.us-east-1.A1D0WZIOU8ONY5"
+        },
+        {
+            "acceptanceTime": "2022-04-21T15:37:03Z",
+            "answerContent": {
+                "crowd-image-classifier": {
+                    "label": "Solid"
+                }
+            },
+            "submissionTime": "2022-04-21T15:37:52Z",
+            "timeSpentInSeconds": 49.0,
+            "workerId": "public.us-east-1.AY0PG4CETFWUF"
+        },
+        {
+            "acceptanceTime": "2022-04-21T15:37:03Z",
+            "answerContent": {
+                "crowd-image-classifier": {
+                    "label": "Spotted"
+                }
+            },
+            "submissionTime": "2022-04-21T15:38:53Z",
+            "timeSpentInSeconds": 110.0,
+            "workerId": "public.us-east-1.A2TO6N1MTMQD1B"
+        }
+    ]
+}

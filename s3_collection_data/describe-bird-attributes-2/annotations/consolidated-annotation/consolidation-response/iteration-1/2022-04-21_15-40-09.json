@@ -1,0 +1,82 @@
+[
+    {
+        "datasetObjectId": "8",
+        "consolidatedAnnotation": {
+            "content": {
+                "describe-bird-attributes-2": 1,
+                "describe-bird-attributes-2-metadata": {
+                    "class-name": "Spotted",
+                    "job-name": "labeling-job/describe-bird-attributes-2",
+                    "confidence": 0.55,
+                    "type": "groundtruth/image-classification",
+                    "human-annotated": "yes",
+                    "creation-date": "2022-04-21T15:40:09.900288"
+                }
+            }
+        }
+    },
+    {
+        "datasetObjectId": "15",
+        "consolidatedAnnotation": {
+            "content": {
+                "describe-bird-attributes-2": 1,
+                "describe-bird-attributes-2-metadata": {
+                    "class-name": "Spotted",
+                    "job-name": "labeling-job/describe-bird-attributes-2",
+                    "confidence": 0.55,
+                    "type": "groundtruth/image-classification",
+                    "human-annotated": "yes",
+                    "creation-date": "2022-04-21T15:40:09.900319"
+                }
+            }
+        }
+    },
+    {
+        "datasetObjectId": "1",
+        "consolidatedAnnotation": {
+            "content": {
+                "describe-bird-attributes-2": 0,
+                "describe-bird-attributes-2-metadata": {
+                    "class-name": "Solid",
+                    "job-name": "labeling-job/describe-bird-attributes-2",
+                    "confidence": 0.45,
+                    "type": "groundtruth/image-classification",
+                    "human-annotated": "yes",
+                    "creation-date": "2022-04-21T15:40:09.900338"
+                }
+            }
+        }
+    },
+    {
+        "datasetObjectId": "5",
+        "consolidatedAnnotation": {
+            "content": {
+                "describe-bird-attributes-2": 1,
+                "describe-bird-attributes-2-metadata": {
+                    "class-name": "Spotted",
+                    "job-name": "labeling-job/describe-bird-attributes-2",
+                    "confidence": 0.9,
+                    "type": "groundtruth/image-classification",
+                    "human-annotated": "yes",
+                    "creation-date": "2022-04-21T15:40:09.900355"
+                }
+            }
+        }
+    },
+    {
+        "datasetObjectId": "2",
+        "consolidatedAnnotation": {
+            "content": {
+                "describe-bird-attributes-2": 1,
+                "describe-bird-attributes-2-metadata": {
+                    "class-name": "Spotted",
+                    "job-name": "labeling-job/describe-bird-attributes-2",
+                    "confidence": 0.55,
+                    "type": "groundtruth/image-classification",
+                    "human-annotated": "yes",
+                    "creation-date": "2022-04-21T15:40:09.900372"
+                }
+            }
+        }
+    }
+]

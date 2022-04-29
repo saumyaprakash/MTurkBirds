@@ -1,0 +1,132 @@
+[
+    {
+        "datasetObjectId": "5",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Green_Kingfisher_0046_71178.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A1X5CTG3IJYP8Q",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.ACPF0GZBM5U2J",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A2TO6N1MTMQD1B",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            }
+        ]
+    },
+    {
+        "datasetObjectId": "8",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Palm_Warbler_0093_170499.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A23KAJRDVCVGOE",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Solid\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A2TO6N1MTMQD1B",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A7SS3XTYL2W5D",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Solid\"}}"
+                }
+            }
+        ]
+    },
+    {
+        "datasetObjectId": "1",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Blue_Grosbeak_0066_36632.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A2Y0P0FH15I0F3",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Multi-colored\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.ACPF0GZBM5U2J",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Striped\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A2TO6N1MTMQD1B",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            }
+        ]
+    },
+    {
+        "datasetObjectId": "15",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Yellow_Headed_Blackbird_0041_8264.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A3OMBYI22HL85K",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A2D4FGZBM8DP01",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Solid\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A2TO6N1MTMQD1B",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            }
+        ]
+    },
+    {
+        "datasetObjectId": "2",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Bohemian_Waxwing_0024_177661.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A1D0WZIOU8ONY5",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Multi-colored\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.AY0PG4CETFWUF",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Solid\"}}"
+                }
+            },
+            {
+                "workerId": "public.us-east-1.A2TO6N1MTMQD1B",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Spotted\"}}"
+                }
+            }
+        ]
+    }
+]

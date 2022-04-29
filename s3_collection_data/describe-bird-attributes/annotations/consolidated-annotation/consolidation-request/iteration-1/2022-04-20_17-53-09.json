@@ -1,0 +1,16 @@
+[
+    {
+        "datasetObjectId": "3",
+        "dataObject": {
+            "s3Uri": "s3://birds-final-project-bucket/Cardinal_0092_17591.jpg"
+        },
+        "annotations": [
+            {
+                "workerId": "public.us-east-1.A3DK3G3CBMNZMP",
+                "annotationData": {
+                    "content": "{\"crowd-image-classifier\":{\"label\":\"Multi-colored\"}}"
+                }
+            }
+        ]
+    }
+]
